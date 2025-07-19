@@ -2,7 +2,9 @@
 
 <p align="center">
   👨‍💻 Software Engineering Student at 42 Wolfsburg <br>
+  
   🎯 Backend & Systems Programming Enthusiast <br>
+  
   🌍 Based in Germany | Open to Internship Opportunities <br>
 </p>
 
