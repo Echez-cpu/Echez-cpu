@@ -29,7 +29,7 @@
 
 ## 🚀 Projects
 
-### 🔧 [Webserv](https://github.com/Echez-cpu/Webserv_42)  
+### 🔧 [Webserv](https://github.com/Echez-cpu/Webserver_42)  
 A custom HTTP/1.1 server in C++98 supporting CGI, config parsing, and socket programming with `poll()`.
 
 ### 🐚 [Minishell](https://github.com/Echez-cpu/Mini_shell-)
@@ -45,7 +45,7 @@ Focused on containerization, networking, and volume persistence.
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](linkedin.com/in/patrick-okpalaeze-echezona-447972330)=
+- 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-okpalaeze-echezona-447972330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 📧 Email: Patrickokpalaeze566@gmail.com
 
 ---
