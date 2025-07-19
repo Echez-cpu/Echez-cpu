@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋,  I'm Patrick Echezona Okpalaeze</h1>
 
 <p align="center">
+  
   👨‍💻 Software Engineering Student at 42 Wolfsburg <br>
   
   🎯 Backend & Systems Programming Enthusiast <br>
