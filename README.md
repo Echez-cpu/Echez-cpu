@@ -47,7 +47,7 @@ Focused on containerization, networking, and volume persistence.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-okpalaeze-echezona-447972330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 📧 Email: Patrickokpalaeze566@gmail.com
-
+- 🇩🇪 I am fluent in German – B2 (telc Deutsch B2 für den Beruf)
 ---
 
 
