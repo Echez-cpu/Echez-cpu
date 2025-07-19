@@ -50,8 +50,6 @@ Focused on containerization, networking, and volume persistence.
 
 ---
 
-## ⚽ Fun Facts
-
 
 ## ⚽ Fun Facts
 
