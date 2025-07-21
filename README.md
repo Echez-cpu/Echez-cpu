@@ -35,7 +35,7 @@ A custom HTTP/1.1 server in C++98 supporting CGI, config parsing, and socket pro
 ### 🐚 [Minishell](https://github.com/Echez-cpu/Mini_shell-)
 Unix-like shell written in C. Supports piping, redirection, environment handling, and signal management.
 
-### 🕹️ [ft_Transcendence](https://github.com/Echez-cpu/ft_transcendence) *(In Progress)*  
+### 🕹️ [ft_Transcendence](https://github.com/Echez-cpu/ft_transcendence-) *(In Progress)*  
 A multiplayer real-time ping-pong web app built with NestJS, WebSocket, and PostgreSQL.
 
 ### 📦 [Inception-Docker_infrastructure](https://github.com/Echez-cpu/Inception_42)  
