@@ -51,6 +51,14 @@ Focused on containerization, networking, and volume persistence.
 ---
 
 
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Echez-cpu&show_icons=true&theme=merko&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echez-cpu&layout=compact&theme=nightowl&hide_border=true" width="48%" />
+</p>
+
+
 ## ⚽ Fun Facts
 
 - I love football, the gym, and reading about system design!
