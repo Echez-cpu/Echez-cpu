@@ -10,16 +10,22 @@
 
 ## 🔧 Tech Stack
 
-Absolutely! Here’s your section with a **TypeScript** badge added, consistent with the existing style:
+ 
+## 🖥️ Programming Languages  
 
-***
+### 🔹 Compiled  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 
-**Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=whiteields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColorimg.shields.io/badge/Bash-121011?style=flat&logo=gnu You can copy-paste this directly into your README!
+### 🔹 Scripting  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)  
 
-[1] https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white
-[2] https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white
-[3] https://img.shields.io/badge/Python-3776AB?style=flat&logo=pyt
+### 🔹 Web & App  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+
+
 
 
 **Tools & Frameworks**  
