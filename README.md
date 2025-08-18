@@ -55,12 +55,33 @@ Focused on containerization, networking, and volume persistence.
 ---
 
 
-## 📊 Stats
+
+
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Echez-cpu&show_icons=true&theme=merko&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echez-cpu&layout=compact&theme=nightowl&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Echez-cpu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echez-cpu&theme=tokyonight&hide_border=true&langs_count=8&hide=roff,makefile,dockerfile,perl" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Echez-cpu&theme=tokyonight&hide_border=true" width="96%" />
+</p>
+
+
+
+
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Echez-cpu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+
+
+
+
 
 
 ## ⚽ Fun Facts
