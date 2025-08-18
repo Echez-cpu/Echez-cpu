@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColorimg.shields.io/badge/Python-3776AB?style=flat&logo=python](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logo](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logo://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white
 
 **Tools & Frameworks**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
