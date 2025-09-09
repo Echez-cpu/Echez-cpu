@@ -49,7 +49,7 @@ A custom HTTP/1.1 server in C++98 supporting CGI, config parsing, and socket pro
 Unix-like shell written in C. Supports piping, redirection, environment handling, and signal management.
 
 ### 🕹️ [ft_Transcendence](https://github.com/Echez-cpu/ft_transcendence-) *(In Progress)*  
-A multiplayer real-time ping-pong web app built with NestJS, WebSocket, and PostgreSQL.
+A multiplayer real-time ping-pong web app built with Node.js, TypeScript, Fastify, Tailwind CSS, WebSocket, and SQLite.
 
 ### 📦 [Inception-Docker_infrastructure](https://github.com/Echez-cpu/Inception_42)  
 Focused on containerization, networking, and volume persistence.
