@@ -2,8 +2,8 @@
 
 <p align="center">
   👨‍💻 Software Engineering Student at 42 Wolfsburg <br>
-  🎯 Backend & Systems Programming Enthusiast <br>
-  🌍 Based in Germany | Open to Internship Opportunities <br>
+  🎯 Backend, Systems Programming & Cybersecurity Enthusiast <br>
+  🌍 Based in Germany | Open to Internship Opportunities in Software Engineering & Cybersecurity <br>
 </p>
 
 ---
@@ -101,3 +101,4 @@ Focused on containerization, networking, and volume persistence.
 - I often stay up late if a problem is unsolved — I don’t rest until I crack it.
 - I enjoy working long hours in deep focus, especially when building something meaningful.
 - Striving for perfection isn’t just a goal — it’s part of how I approach engineering.
+- I’m diving deeper into cybersecurity, especially in the areas of network security, container security, and system hardening.
