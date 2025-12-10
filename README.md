@@ -98,7 +98,7 @@ Focused on containerization, networking, and volume persistence.
 - I love football, the gym, and reading about system design!
 - Big fan of open-source projects & backend performance challenges.
 - I have a sharp eye for detail and care deeply about clean, maintainable code.
-- I often stay up late if a problem is unsolved — I don’t rest until I crack it.
+- I often stay up late if a problem is unsolved. I don’t rest until I crack it.
 - I enjoy working long hours in deep focus, especially when building something meaningful.
-- Striving for perfection isn’t just a goal — it’s part of how I approach engineering.
+- Striving for perfection isn’t just a goal it’s part of how I approach engineering.
 - I’m diving deeper into cybersecurity, especially in the areas of network security, container security, and system hardening.
